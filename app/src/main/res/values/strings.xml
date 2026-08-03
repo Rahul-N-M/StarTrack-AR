@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarTrack AR</string>
+    <string name="app_tagline">AR Astronomy Assistant</string>
+    <string name="app_subtitle">Track the ISS, explore planets, view tonight\'s sky, and learn astronomy in real time.</string>
+</resources>
